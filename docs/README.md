@@ -12,7 +12,7 @@
 
 ##### 1.环境与知识准备
 
-1. 下载安装 [Taro]([http://taro-docs.jd.com/taro/docs/GETTING-STARTED.html](http://taro-docs.jd.com/taro/docs/GETTING-STARTED.html)
+1. 下载安装 [Taro](http://taro-docs.jd.com/taro/docs/GETTING-STARTED.html)
 
 2. 成为开发者（找到您的小程序应用的管理员，把你的微信添加到开发者列表里就行）
 
@@ -76,13 +76,13 @@ yarn dev:weapp
 
 ### 开发手册
 
-[新增简单页面]([https://github.com/doublechaintech/nice-router/blob/master/docs/hello-daas-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/hello-daas-page.md)
+[新增简单页面](https://github.com/doublechaintech/nice-router/blob/master/docs/hello-daas-page.md)
 
-[让页面与后端进行数据交互]([https://github.com/doublechaintech/nice-router/blob/master/docs/fetch-data-for-first-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/fetch-data-for-first-page.md)
+[让页面与后端进行数据交互](https://github.com/doublechaintech/nice-router/blob/master/docs/fetch-data-for-first-page.md)
 
-[来几个概念和约定]([https://github.com/doublechaintech/nice-router/blob/master/docs/concept.md](https://github.com/doublechaintech/nice-router/blob/master/docs/concept.md)
+[来几个概念和约定](https://github.com/doublechaintech/nice-router/blob/master/docs/concept.md)
 
-[简单使用listof组件]([https://github.com/doublechaintech/nice-router/blob/master/docs/use-listof.md](https://github.com/doublechaintech/nice-router/blob/master/docs/use-listof.md)
+[简单使用listof组件](https://github.com/doublechaintech/nice-router/blob/master/docs/use-listof.md)
 
 [如何创建新的line-item](https://github.com/doublechaintech/nice-router/blob/master/docs/how-to-create-new-line-item.md)
 
@@ -98,7 +98,7 @@ Step-Form
 
 [使用后端驱动的Popup消息](https://github.com/doublechaintech/nice-router/blob/master/docs/popup-from-backend.md)
 
-[使用后端驱动的登录跳转]([https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md)
+[使用后端驱动的登录跳转](https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md)
 
 [NavigationService](https://github.com/doublechaintech/nice-router/blob/master/docs/navigation-service.md)
 
@@ -126,4 +126,4 @@ Step-Form
 
 ##### ......
 
-##### 100. Tips
+##### 100. [Tips](https://github.com/doublechaintech/nice-router/blob/master/docs/tips.md)
