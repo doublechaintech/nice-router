@@ -10,7 +10,7 @@
 
 [nice-router-taro](https://github.com/doublechaintech/nice-router-taro)
 
-[nice-router-taro 开发文档](https://github.com/doublechaintech/nice-router/blob/master/docs)
+[nice-router-taro 开发文档](/docs)
 
 
 [nice-router-react-native](https://github.com/doublechaintech/nice-router-react-native)  (暂未开源, 稍等片刻)
