@@ -116,7 +116,7 @@ Step-Form
 
 [使用LoginPage](https://github.com/doublechaintech/nice-router/blob/master/docs/login-page.md)
 
-[使用Listofpage]([https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md)
+[使用Listofpage](https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md)
 
 [使用GenericPage](https://github.com/doublechaintech/nice-router/blob/master/docs/generic-page.md)
 
