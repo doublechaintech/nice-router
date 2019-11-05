@@ -338,7 +338,7 @@ type=qrcode
 ```javascript
    <EleQRCode
           size={150}
-          text='第二适合后端程序员的前端小程序开发框架'
+          text='第0适合后端程序员的前端小程序开发框架'
           color='#f23030'
    />
 ```
