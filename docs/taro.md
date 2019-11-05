@@ -12,7 +12,7 @@
 
 ##### 1.环境与知识准备
 
-1. 下载安装 [Taro]([https://github.com/NervJS/taro](https://github.com/NervJS/taro) 
+1. 下载安装 [Taro]([http://taro-docs.jd.com/taro/docs/GETTING-STARTED.html](http://taro-docs.jd.com/taro/docs/GETTING-STARTED.html)
 
 2. 成为开发者（找到您的小程序应用的管理员，把你的微信添加到开发者列表里就行）
 
