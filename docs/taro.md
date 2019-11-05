@@ -76,51 +76,53 @@ yarn dev:weapp
 
 ### 开发手册
 
-- [x] 新增简单页面
+[新增简单页面]([https://github.com/doublechaintech/nice-router/blob/master/docs/hello-daas-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/hello-daas-page.md)
 
-- [x] 让页面与后端进行数据交互
+[让页面与后端进行数据交互]([https://github.com/doublechaintech/nice-router/blob/master/docs/fetch-data-for-first-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/fetch-data-for-first-page.md)
 
-- [x] 来几个概念和约定
+[来几个概念和约定]([https://github.com/doublechaintech/nice-router/blob/master/docs/concept.md](https://github.com/doublechaintech/nice-router/blob/master/docs/concept.md)
 
-- [x] 简单使用listof组件
+[简单使用listof组件]([https://github.com/doublechaintech/nice-router/blob/master/docs/use-listof.md](https://github.com/doublechaintech/nice-router/blob/master/docs/use-listof.md)
 
-- [x] 如何创建新的line-item
+如何创建新的line-item
 
-- [ ] 图片上传
+图片上传
 
-- [x] 提交一个Form
+提交一个Form
 
-- [ ] Step-Form
+Step-Form
 
-- [x] ServerImage
+[ServerImage](https://github.com/doublechaintech/nice-router/blob/master/docs/server-image.md)
 
-- [x] 使用后端驱动Toast消息
+使用后端驱动Toast消息
 
-- [x] 使用后端驱动的Popup消息
+使用后端驱动的Popup消息
 
-- [x] 使用后端驱动的登录跳转
+使用后端驱动的登录跳转
 
-- [x] NavigationService
+[NavigationService](https://github.com/doublechaintech/nice-router/blob/master/docs/navigation-service.md)
 
-- [x] view-mapping
+[view-mapping](https://github.com/doublechaintech/nice-router/blob/master/docs/view-mapping.md)
 
-- [x] nice-router.model
+[nice-router.model](https://github.com/doublechaintech/nice-router/blob/master/docs/nice-router.model.md)
 
 ### 几个内置页面
 
-- [x] 混搭H5页面
+[混搭H5页面](https://github.com/doublechaintech/nice-router/blob/master/docs/h5-page.md)
 
-- [x] 断网重试network-exception-page
+[断网重试network-exception-page](https://github.com/doublechaintech/nice-router/blob/master/docs/network-exception-page.md)
 
-- [x] 使用LoginPage
+[使用HomePage](https://github.com/doublechaintech/nice-router/blob/master/docs/home-page.md)
 
-- [x] 使用Listofpage
+[使用LoginPage](https://github.com/doublechaintech/nice-router/blob/master/docs/login-page.md)
 
-- [x] 使用generic-page
+[使用Listofpage]([https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md)
 
-- [ ] 内置的Genericpage UI Element
+[使用GenericPage](https://github.com/doublechaintech/nice-router/blob/master/docs/generic-page.md)
 
-- [ ] 内置的Listof lineitem
+内置的Genericpage UI Element
+
+内置的Listof lineitem
 
 ##### ......
 

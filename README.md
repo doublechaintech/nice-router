@@ -1,16 +1,18 @@
 # nice-router
-第二适合后端程序员的前端小程序开发框架
 
-多端统一开发体验
+第二适合后端程序员的前端小程序开发框架。
 
-满足前端页面驱动和后端路由驱动的需求
+多端统一开发体验。
 
-给予后端开发页面控制权（方便实现客CS程序的千人千面，业务变更）
+满足前端页面驱动和后端路由驱动的需求。
 
-Taro: https://github.com/doublechaintech/nice-router-taro
+给予后端开发页面控制权（方便实现客CS程序的千人千面，业务变更）。
 
-RN: https://github.com/doublechaintech/nice-router-react-native (暂未开源)
+[nice-router-taro]([https://github.com/doublechaintech/nice-router-taro](https://github.com/doublechaintech/nice-router-taro)
 
+[nice-router-react-native]([https://github.com/doublechaintech/nice-router-react-native](https://github.com/doublechaintech/nice-router-react-native) (暂未开源, 稍等片刻)
+
+[nice-router-taro 开发文档]([https://github.com/doublechaintech/nice-router/blob/master/docs/taro.md](https://github.com/doublechaintech/nice-router/blob/master/docs/taro.md)
 
 #### 目标功能
 
@@ -20,7 +22,6 @@ RN: https://github.com/doublechaintech/nice-router-react-native (暂未开源)
 - [x] 后端路由，可渐进式缓存为前端路由，例如后端请求和前端路由同时发起
 - [x] 传递统一参数，语义化请求类型，支持 ajax, get, post, post form, navigate
 - [ ] 并行请求，归并结果save2Store。扩展属性 + transformer
-- [ ] 轻松的注册基础版的dva model
 - [x] 基础版model可被代码复写（客户化定制）
 - [x] 标准分页处理
 - [x] 服务端控制消息（Toast处理）
@@ -31,11 +32,9 @@ RN: https://github.com/doublechaintech/nice-router-react-native (暂未开源)
 - [ ] 异常日志上报
 - [ ] 多请求可被中断
 - [ ] 支持RX
-- [ ] 生命周期接口（ETL），分为公共和私有，onStart, onSuccess, onFail, onComplete,
+- [ ] 生命周期接口，分为公共和私有，onStart, onSuccess, onFail, onComplete,
 - [x] 统一的异常处理，断网以及服务端异常
 - [x] 路由请求重放（断网重放）, 部分路由支持失败自动重连
 - [x] ServiceImage， 依赖于AliyunOSS的一个图片组件
 - [x] Listof 支持
 - [x] GenericPage 支持
-
-
