@@ -84,21 +84,21 @@ yarn dev:weapp
 
 [简单使用listof组件]([https://github.com/doublechaintech/nice-router/blob/master/docs/use-listof.md](https://github.com/doublechaintech/nice-router/blob/master/docs/use-listof.md)
 
-如何创建新的line-item
+[如何创建新的line-item](https://github.com/doublechaintech/nice-router/blob/master/docs/how-to-create-new-line-item.md)
 
 图片上传
 
-提交一个Form
+[提交一个Form](https://github.com/doublechaintech/nice-router/blob/master/docs/submit-form.md)
 
 Step-Form
 
 [ServerImage](https://github.com/doublechaintech/nice-router/blob/master/docs/server-image.md)
 
-使用后端驱动Toast消息
+[使用后端驱动Toast消息](https://github.com/doublechaintech/nice-router/blob/master/docs/taost-from-backend.md)
 
-使用后端驱动的Popup消息
+[使用后端驱动的Popup消息](https://github.com/doublechaintech/nice-router/blob/master/docs/popup-from-backend.md)
 
-使用后端驱动的登录跳转
+[使用后端驱动的登录跳转]([https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md](https://github.com/doublechaintech/nice-router/blob/master/docs/listof-page.md)
 
 [NavigationService](https://github.com/doublechaintech/nice-router/blob/master/docs/navigation-service.md)
 
@@ -120,7 +120,7 @@ Step-Form
 
 [使用GenericPage](https://github.com/doublechaintech/nice-router/blob/master/docs/generic-page.md)
 
-内置的Genericpage UI Element
+[内置的Genericpage UI Element](https://github.com/doublechaintech/nice-router/blob/master/docs/generic-page-ele.md)
 
 内置的Listof lineitem
 
