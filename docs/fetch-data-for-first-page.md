@@ -50,11 +50,11 @@
 
 页面会先展示
 
-![](/Users/kalaliu/work/nice-router/docs/assets/first-page-onload.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/first-page-onload.jpg)
 
 代码获取数据后
 
-![](/Users/kalaliu/work/nice-router/docs/assets/first-page-after-load.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/first-page-after-load.jpg)
 
 点击"go to Me Page" 按钮，页面会跳转到Me页面
 

@@ -27,7 +27,7 @@ type=text
  <EleText text="hello daas" customStyle={{ color: 'red' }} />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/ele-text.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/ele-text.jpg)
 
 ###### 图片 EleImage
 
@@ -48,7 +48,7 @@ type=image
     />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/ele-image.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/ele-image.jpg)
 
 ###### 按钮 EleButton
 
@@ -100,7 +100,7 @@ type=button
 </EleButton>
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/ele-button2.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/ele-button2.jpg)
 
 ###### 跑马灯 EleCarousel
 
@@ -128,7 +128,7 @@ Items中支持视频和图片
 | autoplay  | 视频是否自动播放           |
 | id        | 必须的                |
 
-![](/Users/kalaliu/work/nice-router/docs/assets/ele-carousel.gif)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/ele-carousel.gif)
 
 ###### EleMessageSwiper
 
@@ -152,7 +152,7 @@ Items中支持视频和图片
         />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/message.gif)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/message.gif)
 
 ###### EleBreakLine
 
@@ -176,7 +176,7 @@ type=break-line
 <EleBreakLine />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/ele-breakline.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/ele-breakline.jpg)
 
 ###### EleWhiteSpace
 
@@ -193,7 +193,7 @@ type=white-space
         <EleWhiteSpace color='green' />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/white-space.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/white-space.jpg)
 
 ###### EleNavigationBox
 
@@ -223,7 +223,7 @@ type=fab
  <EleFab icon='clock' />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/fab.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/fab.jpg)
 
 ###### EleStoreLocation
 
@@ -251,7 +251,7 @@ type=store-location
         />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/store-location.jpg)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/store-location.jpg)
 
 ###### ElePopup
 
@@ -277,7 +277,7 @@ const popup = {
 }
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/popup2.png)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/popup2.png)
 
 ###### EleFooterTabs
 
@@ -320,7 +320,7 @@ const footer = {
 }
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/footer.png)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/footer.png)
 
 ###### EleQRCode
 
@@ -343,7 +343,7 @@ type=qrcode
    />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/qrcode.png)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/qrcode.png)
 
 ###### EleMoreActions
 
@@ -392,7 +392,7 @@ type=more-actions
         />
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/action-sheet.png)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/action-sheet.png)
 
 ###### EleListof
 
@@ -426,7 +426,7 @@ type=listof
     )
 ```
 
-![](/Users/kalaliu/work/nice-router/docs/assets/listof.png)
+![](https://github.com/doublechaintech/nice-router/edit/master/docs/assets/listof.png)
 
 ###### EleCheckbox
 
