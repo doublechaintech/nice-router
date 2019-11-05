@@ -8,7 +8,7 @@
 
 给予后端开发页面控制权（方便实现客CS程序的千人千面，业务变更）。
 
-[nice-router-taro]([https://github.com/doublechaintech/nice-router-taro](https://github.com/doublechaintech/nice-router-taro)
+[nice-router-taro](https://github.com/doublechaintech/nice-router-taro)
 
 [nice-router-react-native]([https://github.com/doublechaintech/nice-router-react-native](https://github.com/doublechaintech/nice-router-react-native)  (暂未开源, 稍等片刻)
 
