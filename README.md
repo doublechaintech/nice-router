@@ -1,16 +1,16 @@
 # nice-router
-多端统一开发方式
+第二适合后端程序员的前端小程序开发框架
+
+多端统一开发体验
 
 满足前端页面驱动和后端路由驱动的需求
 
 给予后端开发页面控制权（方便实现客CS程序的千人千面，业务变更）
 
-Taro: https://github.com/kala888/nice-router-taro
+Taro: https://github.com/doublechaintech/nice-router-taro
 
-RN: https://github.com/kala888/nice-router-react-native
+RN: https://github.com/doublechaintech/nice-router-react-native (暂未开源)
 
-
-nice-router
 
 #### 目标功能
 
@@ -32,38 +32,10 @@ nice-router
 - [ ] 多请求可被中断
 - [ ] 支持RX
 - [ ] 生命周期接口（ETL），分为公共和私有，onStart, onSuccess, onFail, onComplete,
-- [ ] 统一的异常处理，断网以及服务端异常
-- [ ] 路由请求重放（断网重放）, 部分路由支持失败自动重连
+- [x] 统一的异常处理，断网以及服务端异常
+- [x] 路由请求重放（断网重放）, 部分路由支持失败自动重连
 - [x] ServiceImage， 依赖于AliyunOSS的一个图片组件
 - [x] Listof 支持
- 
- ###  2. generic page
-
-一个数据驱动的页面体系，目标请轻松的由运营人员动态构建页面。
-
-#### 目标功能
-
-
-- [x] Text
-- [x] Button
-- [x] Image
-- [ ] RichText
-- [x] Carousel
-- [x] FooterTab
-
-- [ ] generic form
-- [ ] popup
-- [ ] listof
-- [x] Flex
-- [ ] 自由面板
-- [ ] H5
-
-base biz elements
-- [x] listof
-- [x] StoreLocation
-- [x] BoxBar
-
-biz page
-- [ ] 集赞
+- [x] GenericPage 支持
 
 
