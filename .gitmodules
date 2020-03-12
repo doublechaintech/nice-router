@@ -1,3 +1,4 @@
 [submodule "nice-router-taro"]
 	path = nice-router-taro
 	url = https://github.com/kala888/nice-router-taro
+	branch = base
